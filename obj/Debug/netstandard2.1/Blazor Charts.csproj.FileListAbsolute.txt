@@ -449,6 +449,8 @@ E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minu
 E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\integrity\-dY_sCCJKEgCbazL9g5uvWTHz8x-N2kRxpUYrbzJURk=.hash
 E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\compressed\_framework\_bin\Syncfusion.Blazor.Buttons.dll.gz
 E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\compressed\_framework\_bin\Syncfusion.Blazor.Buttons.dll.br
-E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\integrity\PwHdeUEtkjYU0OtceEICbERuk56JloovEN8zu-Prjjk=.hash
-E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\integrity\bKqiIz4O49zx0pmW8dphQcXRMwgxOjCQG2JK6056prU=.hash
-E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\integrity\sd_xVr5MgIX8k2A4Q50GeiTGkajisYVmTTv3WGyccVw=.hash
+E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Test.razor.g.cs
+E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\Razor\Pages\Test.razor.g.cs
+E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\integrity\ntedcuZXYDbsVtBbXSm_Q-JGWRXomZFolRxWXtUv3Ag=.hash
+E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\integrity\slr-7tO-Rm0BXVs7_7TnROBdDcsJ8heNUztV8XnK_gc=.hash
+E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\obj\Debug\netstandard2.1\integrity\r4cPitQO9q9pzcsIAFfMO15uqhzHrFqvUQ2ocI4WfTc=.hash

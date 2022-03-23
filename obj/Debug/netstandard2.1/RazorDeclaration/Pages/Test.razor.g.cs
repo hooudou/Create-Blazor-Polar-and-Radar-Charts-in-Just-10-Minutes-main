@@ -76,21 +76,20 @@ using Blazor_Charts.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\Pages\Index.razor"
+#line 2 "E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\Pages\Test.razor"
 using Syncfusion.Blazor.Charts;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\Pages\Index.razor"
+#line 3 "E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\Pages\Test.razor"
 using Syncfusion.Blazor.Buttons;
 
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
-    public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class Test : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -98,38 +97,32 @@ using Syncfusion.Blazor.Buttons;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 34 "E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\Pages\Index.razor"
+#line 17 "E:\chromeDownload\C#\VS2022\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\Pages\Test.razor"
       
 
     SfChart ChartObj;
+
     private async Task Export(MouseEventArgs args)
     {
-        await ChartObj.ExportAsync(ExportType.JPEG, "pngImage");
-    }
-    private async Task Print(MouseEventArgs args)
-    {
-        await ChartObj.PrintAsync();
-    }
-    public class ChartData
-    {
-        public double X { get; set; }
-        public double Y { get; set; }
-        public double Y1 { get; set; }
-        public double Y2 { get; set; }
+        await ChartObj.ExportAsync(ExportType.PNG, "pngImage");
     }
 
-    public List<ChartData> SalesReports = new List<ChartData>
-	{
-        new ChartData{ X=2000, Y= 0.61, Y1= 0.03, Y2= 0.48},
-        new ChartData{ X=2001, Y= 0.81, Y1= 0.05, Y2= 0.53 },
-        new ChartData{ X=2002, Y= 0.91, Y1= 0.06, Y2= 0.57 },
-        new ChartData{ X=2003, Y= 1, Y1= 0.09, Y2= 0.61 },
-        new ChartData{ X=2004, Y= 1.19, Y1= 0.14, Y2= 0.63 },
-        new ChartData{ X=2005, Y= 1.47, Y1= 0.20, Y2= 0.64 },
-        new ChartData{ X=2006, Y= 1.74, Y1= 0.29, Y2= 0.66 },
-        new ChartData{ X=2007, Y= 1.98, Y1= 0.46, Y2= 0.76 },
-        new ChartData{ X=2008, Y= 1.99, Y1= 0.64, Y2= 0.77 },
-        new ChartData{ X=2009, Y= 1.70, Y1= 0.75, Y2= 0.55 }
+    public class ChartData
+    {
+        public string X { get; set; }
+        public double YValue { get; set; }
+    }
+
+    public List<ChartData> ConsumerDetails = new List<ChartData>
+    {
+        new ChartData { X= "USA", YValue= 46 },
+        new ChartData { X= "GBR", YValue= 27 },
+        new ChartData { X= "CHN", YValue= 26 },
+        new ChartData { X= "UK", YValue= 36 },
+        new ChartData { X= "AUS", YValue= 15 },
+        new ChartData { X= "IND", YValue= 55 },
+        new ChartData { X= "DEN", YValue= 40 },
+        new ChartData { X= "MEX", YValue= 30 }
     };
 
 #line default

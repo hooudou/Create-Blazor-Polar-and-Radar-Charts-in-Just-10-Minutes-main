@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yFkhl5MfVAYxbcxUhCiD2TKhxwjVODVgI15k39BAC5JbLcPUhntKmI1atjZbcblx+K7vApLKK78f37QCc4jlIQ==",
+  "dgSpecHash": "Mz8veRL528XDKquktlHFtMEJsr/LzW8SS2HTuaq9zA0QU7pvcx4lbzXyAy/1nsjVXPklrh06TTNYTS+Vtq2znw==",
   "success": true,
-  "projectFilePath": "e:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj",
+  "projectFilePath": "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.8\\microsoft.aspnetcore.authorization.3.1.8.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.8\\microsoft.aspnetcore.components.3.1.8.nupkg.sha512",

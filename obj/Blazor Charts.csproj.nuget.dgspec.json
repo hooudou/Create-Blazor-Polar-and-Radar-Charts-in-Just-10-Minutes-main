@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj": {}
+    "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj": {}
   },
   "projects": {
-    "e:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj": {
+    "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj",
+        "projectUniqueName": "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj",
         "projectName": "Blazor Charts",
-        "projectPath": "e:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj",
+        "projectPath": "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\Blazor Charts.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "e:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\obj\\",
+        "outputPath": "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\softwares\\VSCommunity2019\\SAVE\\NuGetPackages",

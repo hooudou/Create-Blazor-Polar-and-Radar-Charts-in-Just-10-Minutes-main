@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PwHdeUEtkjYU0OtceEICbERuk56JloovEN8zu-Prjjk=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ntedcuZXYDbsVtBbXSm_Q-JGWRXomZFolRxWXtUv3Ag=.hash",
       "Source": "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor Charts.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazor Charts.dll.gz"
     },
@@ -346,7 +346,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bKqiIz4O49zx0pmW8dphQcXRMwgxOjCQG2JK6056prU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\slr-7tO-Rm0BXVs7_7TnROBdDcsJ8heNUztV8XnK_gc=.hash",
       "Source": "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor Charts.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazor Charts.pdb.gz"
     },
@@ -371,7 +371,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\sd_xVr5MgIX8k2A4Q50GeiTGkajisYVmTTv3WGyccVw=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r4cPitQO9q9pzcsIAFfMO15uqhzHrFqvUQ2ocI4WfTc=.hash",
       "Source": "E:\\chromeDownload\\C#\\VS2022\\Create-Blazor-Polar-and-Radar-Charts-in-Just-10-Minutes-main\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }
